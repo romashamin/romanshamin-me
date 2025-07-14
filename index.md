@@ -8,7 +8,7 @@ title: Roman Shamin | Product designer and engineer
   <img class="profile-photo" src="/images/photo.jpg" alt="Roman Shamin photo" />
   <h1 class="h1-greeting"><span class="text-dimmed">Hi! I’m Roman Shamin.</span> A product designer and engineer. I had the privilege of leading the design for Google Ventures, eBay, Tines, Ghost Security, and YC alumni. Specialty coffee lover.</h1>
 
-  <div class="cta"><span class="cta-body">Open for new roles</span><a href="https://www.linkedin.com/in/roman-shamin" class="cta-button">Let’s Chat</a></div>
+  <!--div class="cta"><span class="cta-body">Open for new roles</span><a href="https://www.linkedin.com/in/roman-shamin" class="cta-button">Let’s Chat</a></div-->
 
 </div>
 
