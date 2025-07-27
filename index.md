@@ -17,7 +17,7 @@ title: Roman Shamin | Product designer and engineer
   <div class="grid-item item-full">
     <div class="card-caption">
       <h3 class="card-header">Tines<span class="header-badge">B2B</span></h3>
-      <p class="card-details">MVP launch • Product design • Product ownership</p>
+      <div class="card-details"><span class="card-details-left-part">MVP launch • Product design • Product ownership</span><span class="card-details-right-part"><a href="https://bit.ly/tines-case-study" target="_blank" class="cta-case-study">Case Study</a></span></div>
     </div>
     <img class="card-image" src="/images/tines.png" alt="Tines UI" />
   </div>
@@ -25,7 +25,7 @@ title: Roman Shamin | Product designer and engineer
   <div class="grid-item item-full">
     <div class="card-caption">
       <h3 class="card-header">Ghost Security<span class="header-badge">B2B</span></h3>
-      <p class="card-details">Dashboard design • Data visualization • Product design</p>
+      <p class="card-details">Dashboard design • Data visualization • Product design</p>
     </div>
     <img class="card-image" src="/images/ghost.png" alt="Ghost Security UI" />
   </div>
@@ -33,7 +33,7 @@ title: Roman Shamin | Product designer and engineer
   <div class="grid-item item-full">
     <div class="card-caption">
       <h3 class="card-header">eBay for Business<span class="header-badge">B2B</span></h3>
-      <p class="card-details">Product design • Art direction • Growth hacking</p>
+      <p class="card-details">Product design • Art direction • Growth hacking</p>
     </div>
     <img class="card-image" src="/images/ebaymag.png" alt="eBay for Business UI" />
   </div>
@@ -41,7 +41,7 @@ title: Roman Shamin | Product designer and engineer
   <div class="grid-item item-full">
     <div class="card-caption">
       <h3 class="card-header">VStage<span class="header-badge">B2B</span></h3>
-      <p class="card-details">Product design • MVP launch • Product ownership • Map design</p>
+      <p class="card-details">Product design • MVP launch • Product ownership • Map design</p>
     </div>
     <img class="card-image" src="/images/vstage.png" alt="VStage UI" />
   </div>
@@ -49,7 +49,7 @@ title: Roman Shamin | Product designer and engineer
   <div class="grid-item item-full">
     <div class="card-caption">
       <h3 class="card-header">Confidential project<span class="header-badge">B2B</span></h3>
-      <p class="card-details">Product design • MVP launch</p>
+      <p class="card-details">Product design • MVP launch</p>
     </div>
     <img class="card-image" src="/images/nda-1.png" />
   </div>
@@ -65,7 +65,7 @@ title: Roman Shamin | Product designer and engineer
   <div class="grid-item item-full">
     <div class="card-caption">
       <h3 class="card-header">imgproxy.net<span class="header-badge">OSS</span></h3>
-      <p class="card-details">Website design • Brand identity & logotype • Typeface design</p>
+      <p class="card-details">Website design • Brand identity & logotype • Typeface design</p>
     </div>
     <img class="card-image" src="/images/imgproxy.png" alt="imgproxy" />
   </div>
@@ -79,7 +79,7 @@ title: Roman Shamin | Product designer and engineer
   <div class="grid-item item-full">
     <div class="card-caption">
       <h3 class="card-header">OKLCH Color Picker</h3>
-      <p class="card-details">Co-author • Idea & vision • Product design • Product Hunt launch</p>
+      <p class="card-details">Co-author • Idea & vision • Product design • Product Hunt launch</p>
     </div>
     <img class="card-image" src="/images/oklch-com.png" alt="Ghost Security UI" />
   </div>
